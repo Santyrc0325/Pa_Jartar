@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pa Jartar</string>
+
+    //Inicio de sesion
+
+    <string name="ivLogin"></string>
+    <string name="tvInicioDeSesion">Inicio de Sesión</string>
+    <string name="etCorreo">Correo electrónico</string>
+    <string name="etContraseña">Contraseña</string>
+    <string name="iniciarSesion">Iniciar sesión</string>
+    <string name="tvIS1">Si no tienes cuenta, registrate con el siguiente botón:</string>
+    <string name="registrate">Registrate</string>
+
+</resources>
